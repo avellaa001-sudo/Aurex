@@ -6,7 +6,6 @@ import Benefits from './components/Benefits';
 import ProductShowcase from './components/ProductShowcase';
 import Features from './components/Features';
 import Testimonials from './components/Testimonials';
-import AIConcierge from './components/AIConcierge';
 import FAQ from './components/FAQ';
 import Footer from './components/Footer';
 
@@ -35,7 +34,6 @@ const App: React.FC = () => {
         <section id="products">
           <ProductShowcase />
         </section>
-        <AIConcierge />
         <Testimonials />
         <FAQ />
       </main>

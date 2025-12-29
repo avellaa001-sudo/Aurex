@@ -1,7 +1,5 @@
 {
-  "name": "Aurex",
-  "description": "Premium landing page for an electric knee massager designed for daily relaxation and warmth. Meta-compliant and conversion-optimized.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
+  "name": "Aurex - Your Evening Comfort Ritual",
+  "description": "Premium landing page for the Aurex electric knee massager. Designed for comfort, warmth, and daily relaxation.",
+  "requestFramePermissions": []
 }
