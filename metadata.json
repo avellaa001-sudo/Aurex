@@ -1,0 +1,7 @@
+{
+  "name": "Aurex",
+  "description": "Premium landing page for an electric knee massager designed for daily relaxation and warmth. Meta-compliant and conversion-optimized.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
